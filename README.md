@@ -6,3 +6,7 @@
 ![React](https://img.shields.io/badge/React-10243A?style=for-the-badge&logo=react&logoColor=58A6FF)
 ![Next.js](https://img.shields.io/badge/Next.js-10243A?style=for-the-badge&logo=nextdotjs&logoColor=58A6FF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10243A?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
+
+## Contribuciones
+
+![Pac-Man](https://raw.githubusercontent.com/yarijlopez/yarijlopez/output/pacman-contribution-graph-dark.svg)
