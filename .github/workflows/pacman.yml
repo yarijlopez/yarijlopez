@@ -21,6 +21,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: yarijlopez
+          github_token: ${{ github.token }}
           games: pacman
 
       - name: Guardar animación
