@@ -23,6 +23,8 @@ jobs:
           github_user_name: yarijlopez
           github_token: ${{ github.token }}
           games: pacman
+          player_style: aggressive
+          hide_month_labels: 'true'
 
       - name: Guardar animación
         uses: crazy-max/ghaction-github-pages@v5
